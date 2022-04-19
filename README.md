@@ -18,6 +18,8 @@ Once you have opened it navigate to where you want to install Lighthouse
 
 ```
  lighthouse <url>
- 
+
 ```
 This will result in another window being opened to the website you're auditing and the results being displayed on the command line.
+
+![Audit being run](assets/lighthouse.PNG)

@@ -9,11 +9,15 @@ Once you have opened it navigate to where you want to install Lighthouse
 
 ### To install it
 
-``` npm install -g lighthouse
+```
+ npm install -g lighthouse
+
 ```
 
 ### To run an audit
 
-``` lighthouse <url>
+```
+ lighthouse <url>
+ 
 ```
 This will result in another window being opened to the website you're auditing and the results being displayed on the command line.
